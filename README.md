@@ -183,4 +183,3 @@ static void mostrar_menu() {
 }
 
 /* Exibe ranking ordenado (
-
